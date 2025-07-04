@@ -1,6 +1,6 @@
 body.has-background {
   position: relative;
-  background: url('/images/fondo.gif') no-repeat center center fixed;
+  background: url('images/fondo.gif') no-repeat center center fixed;
   background-size: cover;
   overflow: hidden;
 }

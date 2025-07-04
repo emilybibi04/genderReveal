@@ -62,7 +62,7 @@ function checkReveal() {
       const app = document.getElementById('app');
       app.innerHTML = `
         <div class="reveal-fullscreen">
-          <img src="/images/its-a-boy.png" alt="It's a boy!" />
+          <img src="images/its-a-boy.png" alt="It's a boy!" />
         </div>
       `;
 
