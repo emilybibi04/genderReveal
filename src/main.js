@@ -2,15 +2,15 @@
 import confetti from 'canvas-confetti';
 
 const imageSources = [
-  '/images/foto1.gif',
-  '/images/foto2.gif',
-  '/images/foto3.gif',
-  '/images/foto4.gif',
-  '/images/foto5.gif',
-  '/images/foto6.gif',
-  '/images/foto7.gif',
-  '/images/foto8.gif',
-  '/images/foto9.gif'
+  'images/foto1.gif',
+  'images/foto2.gif',
+  'images/foto3.gif',
+  'images/foto4.gif',
+  'images/foto5.gif',
+  'images/foto6.gif',
+  'images/foto7.gif',
+  'images/foto8.gif',
+  'images/foto9.gif'
 ];
 
 const board = document.getElementById('board');
