@@ -1,6 +1,6 @@
 body.has-background {
   position: relative;
-  background: url('images/fondo.gif') no-repeat center center fixed;
+  background: url('/images/fondo.gif') no-repeat center center fixed;
   background-size: cover;
   overflow: hidden;
 }
@@ -117,7 +117,7 @@ body.has-background {
 
 body {
   font-family: sans-serif;
-  background: #aad6e8;
+  background: #e6c3d6;
   margin: 0;
   padding: 0;
   height: 100vh;
@@ -157,7 +157,7 @@ body.has-background::before {
   justify-content: center;
   height: 100vh;
   animation: fadeIn 1.5s ease-in-out;
-  background-color: #a8dcf5; /* celeste suave opcional */
+  background-color: #e6c3d6; /* celeste suave opcional */
 }
 
 .reveal-final img {

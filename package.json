@@ -2,10 +2,12 @@
   "name": "genderreveal",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://emilybibi04.github.io/genderReveal/",
   "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
   },
   "devDependencies": {
